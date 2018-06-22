@@ -1,2 +1,3 @@
 # hello-world
-First Step into Git
+First Step into git
+Learning to use git
